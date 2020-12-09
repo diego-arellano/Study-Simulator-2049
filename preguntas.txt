@@ -1,0 +1,17 @@
+3
+Algoritmos
+Que tipo de dato es String?
+Objeto
+Primitivo
+Estructura de datos
+Simple
+En que indice inician los arreglos?
+1
+0
+-1
+2
+Que bucle usamos para recorrer un arreglo?
+while
+do-while
+for
+infinito
